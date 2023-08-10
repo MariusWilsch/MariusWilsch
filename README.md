@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Marius Wilsch</h1>
 <h3 align="center">An aspiring software engineer from Germany</h3>
 
