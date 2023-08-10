@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Marius Wilsch</h1>
-<h3 align="center">A aspiring software engineer from Germany</h3>
+<h3 align="center">An aspiring software engineer from Germany</h3>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" style="padding-left: 30px;">
 
