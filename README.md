@@ -6,15 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariuswilsch&label=Profile%20views&color=0e75b6&style=flat" alt="mariuswilsch" /> </p>
 
 
-- 🔭 I’m currently working on **Inception**
+- 🔭 I’m currently working on **my own project**
 
-- 🌱 I’m currently learning **C++ and Docker**
+- 🌱 I’m currently learning **API's**
 
 - 🤝 I’m looking for help with **searching for my first Tech Job**
 
 - 💬 Ask me about **C, disruptive Technologies**
 
-- 📫 How to reach me **+49 172 613 9890 (WhatsApp)**
+- 📫 How to reach me **+49 155 66239974‬ (WhatsApp)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
