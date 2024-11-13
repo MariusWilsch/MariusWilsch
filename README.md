@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my own project**
 
-- 🌱 I’m currently learning **working with API's**
+- 🌱 I’m currently learning **everything AI**
 
 - 💬 Ask me about **C, disruptive Technologies**
 
