@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **working with API's**
 
-- 🤝 I’m looking for help with **searching for my first Tech Job**
-
 - 💬 Ask me about **C, disruptive Technologies**
 
 - 📫 How to reach me **+49 155 66239974‬ (WhatsApp)**
