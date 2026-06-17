@@ -6,4 +6,4 @@ The off-the-shelf AI is the easy part. It only works when three things come toge
 
 **What we're building:** AI-in-a-Box · a Fractional AI Department. Three of us build the AI directly, inside the Wilsch group (around 80 people, German IT since 1959).
 
-What's here is infrastructure — the real proof is in what we've shipped → wilsch-ai.com
+What's here is infrastructure — the real proof is in what we've shipped → [wilsch-ai.com](https://wilsch-ai.com)
